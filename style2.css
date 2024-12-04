@@ -144,6 +144,11 @@ body, nav, ul, li {
     background-color: #f7f7f7;
   }
     h2 {
-    padding: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+    h1 {
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
